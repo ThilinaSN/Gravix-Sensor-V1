@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VQWZBDLI
 
 [Document14]
-DocumentPath=..\..\USB2.0_HUB\USB_2.0_HUB\Gravix-crystal oscillator.PcbLib
+DocumentPath=..\..\USB2.0_HUB\USB_2.0_HUB\Gravix-crystal.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BQLGCNLA
 
 [Document15]
-DocumentPath=Gravix-crystal oscillator.SchLib
+DocumentPath=Gravix-crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
