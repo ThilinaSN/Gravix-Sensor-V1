@@ -1,7 +1,8 @@
-Record=TopLevelDocument|FileName=Barometer.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Barometer.SchDoc|FileName=BLE.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Barometer.SchDoc|FileName=IMU.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Barometer.SchDoc|FileName=Magnetometer.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Barometer.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Barometer.SchDoc|FileName=Memory.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Barometer.SchDoc|FileName=Power.SchDoc|SheetNumber=1
+Record=TopLevelDocument|FileName=Gravix-Hierarchical Structure.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_Barometer|SchDesignator=U_Barometer|FileName=Barometer.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Barometer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_BLE|SchDesignator=U_BLE|FileName=BLE.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=BLE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_IMU|SchDesignator=U_IMU|FileName=IMU.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_Magnetometer|SchDesignator=U_Magnetometer|FileName=Magnetometer.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=Magnetometer.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_MCU|SchDesignator=U_MCU|FileName=MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_Memory|SchDesignator=U_Memory|FileName=Memory.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=Memory.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Gravix-Hierarchical Structure.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
